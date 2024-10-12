@@ -3,50 +3,41 @@
 
 using namespace std;
 
-
-
-int binFind(int arr[], int left, int right, bool flag, int number) {
-    int middle;
-    while((left <= right) && (flag != true)) {
-        middle = (left + right) / 2;
-        if(arr[middle] == number) {
-            flag = true;
-            middle--;
-        }
-        if(arr[middle > number]) {
-            right = middle--;
-        }
-        else { 
-            left = middle++;
+int* insertSort(int* arr, int len) {
+    for(int i = 1; i < len; i++){
+        for(int j = i; j > 0 && arr[j-1] > arr[j]; j--){
+            int per = arr[j-1];
+            arr[j-1] = arr[j];
+            arr[j] = per;
         }
     }
-    if(flag) {
-        cout << "Индекс элемента " << number << " в массиве равен: " << middle << endl;
-    } else {
-        cout << "Такого элемента в массиве не существует";
+    return arr;
+}
+
+int binFind(int arr[], int index, int num, int len, int c) {
+    if (len > index) {
+        if (arr[index] == num) {
+            cout << c << " - количество проходов" << endl;
+            return index;
+        }
+        else if (num > arr[index]) {
+            c++;
+            return binFind(arr, index + 1, num, len, c);
+        }
+        else {
+            c++;
+            return binFind(arr, index - 1, num, len, c);
+        }
     }
+    return -1;
 }
 
 int main() {
-    int arr[] = {4,2,6,3,5,7,1};
-    bool flag = false;
-    int left = 0;
-    int right = sizeof(arr)/sizeof(arr[0]) - 1; // len - 1 // 8
+    int arr[] = {3,1,6,12,8,235,2,75};
+    int lenArr = sizeof(arr)/sizeof(arr[0]);
     int num;
     cout << "Введите искомое значение: ";
     cin >> num;
 
-    for (int i = 0; i <= right; i++){
-        for(int j = i; j <= right; j++){
-            if(arr[j] > arr[j+1]) {
-                int per = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = per;
-            }
-        }
-    }
-
-    binFind(arr, left, right, flag, num);
-    
-    return 0;
+    cout << binFind(insertSort(arr, lenArr), lenArr / 2, num, lenArr, 0) << " - индекс искомого значения" << endl;
 }
