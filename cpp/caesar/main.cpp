@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// =============== 1.0 ==================
 // void caesarROT(string inputData, int rotNum) {
 //     for (char c: inputData) {
 //         if(isalpha(c)) {
@@ -20,6 +21,8 @@ using namespace std;
 //     }
 // }
 
+
+// ============== 2.0 ===================
 void caesarROT(string inputData, int rotNum) {
     for(char c: inputData) {
         if(isalpha(c)) cout << char(97 + (int(c) - 97 + rotNum) % 26);
