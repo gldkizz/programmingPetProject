@@ -29,8 +29,6 @@ void Gauss(double** A, double* Y, int numEq){
         // меняем строку с макс элементом на начальную
         swap(A[maxRow], A[i]);
         swap(Y[maxRow], Y[i]);
-        outData(numEq, A, Y);
-        cout << endl;
 
         // приведение к треугольной форме
         for(int k = i + 1; k < numEq; k++){

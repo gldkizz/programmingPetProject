@@ -32,7 +32,7 @@ void caesarROT(string inputData, int rotNum) {
 }
 
 int main() {
-    caesarROT("abcde1234", 23);
+    caesarROT("x123", 123564325);
     cout << endl;
     return 0;
 }
