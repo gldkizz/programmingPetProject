@@ -1,4 +1,6 @@
 #include <iostream>
+#include <thread>
+#include <vector>
 
 using namespace std;
 
@@ -12,6 +14,14 @@ void outData(int numEq, double** A, double* Y) { // вывод данных
         }
         cout << " = " << Y[i] << endl;
     }
+}
+
+void Triangle(int i, int k, int numEq, double** A, double* Y) {
+    double coeff = A[k][i] / A[i][i];
+    for(int j = i; j < numEq; j++){
+        A[k][j] -= coeff * A[i][j];
+    }   
+    Y[k] -= coeff * Y[i];
 }
 
 void Gauss(double** A, double* Y, int numEq){
@@ -29,14 +39,14 @@ void Gauss(double** A, double* Y, int numEq){
         // меняем строку с макс элементом на начальную
         swap(A[maxRow], A[i]);
         swap(Y[maxRow], Y[i]);
-
         // приведение к треугольной форме
-        for(int k = i + 1; k < numEq; k++){
-            double coeff = A[k][i] / A[i][i]; // 2,5
-            for(int j = i; j < numEq; j++){
-                A[k][j] -= coeff * A[i][j]; // A[1][0] = A[1][0] - 2,5 * A[0][0]
-            }   
-            Y[k] -= coeff * Y[i];
+        vector<thread> thr;
+        for(int k = i + 1; k < numEq; k++) {
+            thr.push_back(thread(Triangle, i, k, numEq, A, Y));
+        }
+
+        for(auto& th: thr) {
+            th.join();
         }
     }
     // обратный ход

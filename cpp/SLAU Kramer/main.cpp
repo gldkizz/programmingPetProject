@@ -11,7 +11,7 @@ int findDet(int** matr, int n) {
         return matr[0][0]*matr[1][1]-matr[0][1]*matr[1][0];
     } 
     else {
-        double det = 0.0;
+        int det = 0.0;
         for(int k = 0; k < n; k++){
             int** subMatr = new int*[n-1];
             for(int i = 0; i < n -1; i++){
@@ -48,10 +48,10 @@ void Kramer(int** matr, int* constants, int n) {
             modMatr[j][i] = constants[j];
         }
         res[i] = findDet(modMatr,n) / det;
-        for(int j = 0; j < n; j++){
-            delete[] modMatr[j];
-        }
-        delete[] modMatr;
+        // for(int j = 0; j < n; j++){
+        //     delete[] modMatr[j];
+        // }
+        // delete[] modMatr;
     }
     for(int i = 0; i < n; i++){
         cout << "x[" << i << "]: " << res[i] << endl;

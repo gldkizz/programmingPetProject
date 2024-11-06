@@ -1,6 +1,13 @@
 {
     "files.associations": {
         "ostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
     }
 }
