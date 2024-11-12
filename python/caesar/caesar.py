@@ -7,5 +7,5 @@ def caesarROT(inputData, rotNum):
         else:
             print(ch, end='')
 print("Вывод: ", end='')
-caesarROT("x123", 123564325)
+caesarROT("Hello", 20)
 print("\n")
