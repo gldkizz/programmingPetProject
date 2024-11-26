@@ -1,6 +1,7 @@
 #include <iostream>
 #include <thread>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
@@ -42,7 +43,7 @@ void Gauss(double** A, double* Y, int numEq){
         // приведение к треугольной форме
         vector<thread> thr;
         for(int k = i + 1; k < numEq; k++) {
-            thr.push_back(thread(Triangle, i, k, numEq, A, Y));
+            thr.push_back(thread(Triangle, i, k, numEq, ref(A), ref(Y)));
         }
 
         for(auto& th: thr) {
