@@ -2,8 +2,11 @@
 #include <thread>
 #include <vector>
 #include <cmath>
+#include <mutex>
 
 using namespace std;
+
+mutex mtx;
 
 void outData(int numEq, double** A, double* Y) { // вывод данных
     for(int i = 0; i < numEq; i++){
@@ -20,8 +23,10 @@ void outData(int numEq, double** A, double* Y) { // вывод данных
 void Triangle(int i, int k, int numEq, double** A, double* Y) {
     double coeff = A[k][i] / A[i][i];
     for(int j = i; j < numEq; j++){
+        lock_guard<mutex> lock(mtx);
         A[k][j] -= coeff * A[i][j];
     }   
+    lock_guard<mutex> lock(mtx);
     Y[k] -= coeff * Y[i];
 }
 
@@ -41,13 +46,13 @@ void Gauss(double** A, double* Y, int numEq){
         swap(A[maxRow], A[i]);
         swap(Y[maxRow], Y[i]);
         // приведение к треугольной форме
-        vector<thread> thr;
-        for(int k = i + 1; k < numEq; k++) {
-            thr.push_back(thread(Triangle, i, k, numEq, ref(A), ref(Y)));
-        }
 
-        for(auto& th: thr) {
-            th.join();
+        for(int k = i+1; k < numEq; k++){
+            double coeff = A[k][i] / A[i][i];
+            for(int j = i; j < numEq; j++){
+                A[k][j] -= coeff * A[i][j];
+            }   
+            Y[k] -= coeff * Y[i];
         }
     }
     // обратный ход

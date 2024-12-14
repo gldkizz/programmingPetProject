@@ -1,0 +1,6739 @@
+{
+  "metadata": {
+    "name": "чехол на айфон",
+    "catalog_type": "preset",
+    "catalog_value": "preset=6430",
+    "normquery": "чехол apple iphone",
+    "rmi": "2",
+    "rs": 100,
+    "title": "чехол на айфон",
+    "search_result": {}
+  },
+  "state": 0,
+  "version": 2,
+  "payloadVersion": 2,
+  "data": {
+    "products": [
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 262128338,
+        "root": 239655421,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "оранжевый",
+            "id": 16753920
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield для Apple iPhone 15, с магнитным кольцом",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 5,
+        "feedbacks": 34,
+        "nmFeedbacks": 1,
+        "feedbackPoints": 300,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407187034,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 127600,
+              "total": 127600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "u+v+v6BTm2Fy7SnVcHBVG4+Fg0X3Yg4itIH1UjHrsezA16uC6Jdqcnp8j+8JIPs5NVYvRBBoknNnS7uI1Aw"
+          }
+        ],
+        "totalQuantity": 33,
+        "logs": "Me3ZiRM2wM2/Ft5dMnzJrsvyf9F26OBYDerOsis+C+5hsoeGJaBPkWFwkfjnqbZaTppwhg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 262239877,
+        "root": 239655421,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield Case для iPhone 15 с Magsafe, Сommo Yellow",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 34,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 300,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407346351,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 127600,
+              "total": 127600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "ia7BdVIMtZ/AUBv+JU7UK8V+UjL9VIrVf5nACHj+TrBv4WcYfV8YdzxPr6j1vSdn4tesHtYd+d0cwkJG2YU"
+          }
+        ],
+        "totalQuantity": 25,
+        "logs": "MaNxkiWPGVx1jWjkNc5/FxG6w6yykhqSWKAe1KUJt3ssMliDZDliWk7jxC8zciZX4ibihw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 197517978,
+        "root": 179241532,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол на iPhone 15 Pro с магнитами MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 9438,
+        "nmFeedbacks": 1934,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106577,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 320248328,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 94000,
+              "product": 32400,
+              "total": 32400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "EHwaAUT0fNo68ywdNBPE0WVNwxkKLpPBfb7UGZuR4HVlI5oJ3mqypXw1QHKK77uTKGCCyII26UfNfRld"
+          }
+        ],
+        "totalQuantity": 1251,
+        "logs": "MTqVTB0C4ybSD2EdwczF96jjzNowciGvMQCmnbZWf9hsDgYsd1Kd9ea3Ewh/6+Jv9iPoqA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 197511293,
+        "root": 179236311,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "синий",
+            "id": 255
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол на iPhone 15 Pro Max с магнитами MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 9290,
+        "nmFeedbacks": 1641,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 320238932,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 94000,
+              "product": 32400,
+              "total": 32400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "7KdO2X6sg+ARQ4ma1TIB8V7HqkJf/pCb1rWl9YT5SOYWbRPJ8L5ATWTn1gJo4JmRruUZa73j5Fa81Uju"
+          }
+        ],
+        "totalQuantity": 1255,
+        "logs": "MY35FR7W+Iy0RDGDUJWhSYtzAGHeTP40+zPvuwWfYAoF0bNe4k64O5jg80rtuzTE8KzZ/w",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 101763524,
+        "root": 79116647,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 13 Pro Max, серия silicon case",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 619483,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.6,
+        "feedbacks": 1917,
+        "nmFeedbacks": 260,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 160006121,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 55700,
+              "product": 25500,
+              "total": 25500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "89V3IDkpUmlROn+TsXYG8NQ2PCvdypX2qN4HPVQ7DrPlEgCzDboVhnRIBui270Kg6R+YRPpa20Wg"
+          }
+        ],
+        "totalQuantity": 997,
+        "logs": "MTbMRPi1cJ9atqOa3f4NDrL0P4Eq/Mee4tGw7+EIcaoF74SUCWmFG1d32USoHHTU8yK9PQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 197517979,
+        "root": 179241532,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "синий",
+            "id": 255
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол на iPhone 15 Pro с магнитами MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 9438,
+        "nmFeedbacks": 1566,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 320248329,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 94000,
+              "product": 32400,
+              "total": 32400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "W2B4jsqlFrbhKagdi58D+OwsaqGCnaDMimozjS3OW0c0PRxr4gIRI/HapaTkVaq6muPIsddJjN4YiTBL"
+          }
+        ],
+        "totalQuantity": 1317,
+        "logs": "Mffid8i9RDB32ZLWUZXkmC9e/cYErBTsKFhisfjLpEKZNpqxZLnuTtWh6OeJiY3rCeKryQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 254335812,
+        "root": 187648373,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iphone 15 с magsafe со стразами",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 5999,
+        "nmFeedbacks": 55,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 396753664,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 134200,
+              "product": 46200,
+              "total": 46200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "7F9VzXj47e1YshYXLocv6LGSbLxXwy5ZggqhAi/T9IdMDjKVPdeXBs+NvG0FAW4KhwV94Acpl9YBmoF6Fz4"
+          }
+        ],
+        "totalQuantity": 506,
+        "logs": "MQE3Cvs7efZQKtzt1gBqn8ICQq2IF1JCLFmD8NxZjxntKSOyvg4PZToV6vmjGx9pZqjo0g",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 254336136,
+        "root": 171326206,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iphone 13 pro max с magsafe со стразами",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 2487,
+        "nmFeedbacks": 53,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 396754125,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 107800,
+              "product": 37100,
+              "total": 37100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "6WhvOmNVBdUluyriN+EBxZwty0QzETdEp6t4366scNb4G0LwrJ1bpdRNMDeMwro+vXgfOIho9CG3qTTj"
+          }
+        ],
+        "totalQuantity": 360,
+        "logs": "MQ8wHDAI2Y+gXt3WW5QqwS8Yz7FV7tgnh47NdNUlKI2I63N4id+rQzEYDdBMo8ThC940",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 217280109,
+        "root": 187648373,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iphone 15 с magsafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 5999,
+        "nmFeedbacks": 923,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 346126269,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 94000,
+              "product": 32400,
+              "total": 32400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "FJjBC8JaUqOR801zhOeFUuuaNmLSNG1U78K6FsnzqtaxxvNuQXjRFuQwpH/2MEUdnFoTOxnsk4dbgwrT"
+          }
+        ],
+        "totalQuantity": 1373,
+        "logs": "MUT/Z0MztZVqC+/uYIsVQbGobhQF/U7mXEb6cDBck1qMx3j0RCq8a1dNrwQWG4Gq8wJC",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 259688120,
+        "root": 236890295,
+        "kindId": 0,
+        "brand": "OneCase",
+        "brandId": 238170,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 PRO прозрачный силиконовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "MadamBelle",
+        "supplierId": 4002423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 44,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 403773646,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 190000,
+              "product": 47100,
+              "total": 47100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "cMxoW5TthL5Ml5oligyc+OS8iFr84g8UVhUu5/31c1Uvnt1pPU4oX3ga2EZucauUQuEE0rr4P4q6aWAWwIs"
+          }
+        ],
+        "totalQuantity": 122,
+        "log": {
+          "cpm": 500,
+          "promotion": 1,
+          "promoPosition": 10,
+          "position": 15851,
+          "advertId": 20739680,
+          "tp": "c"
+        },
+        "logs": "Mf92j0kpBwYgdrREia8WcQORwuSQHpl9xBLOaok5LyR2KksTpiurkMEfBXONaZh7loIQMQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 230650013,
+        "root": 207452195,
+        "kindId": 0,
+        "brand": "Rё",
+        "brandId": 312045709,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro прозрачный защитный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Re:Case Store",
+        "supplierId": 55679,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 949,
+        "nmFeedbacks": 63,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 364200354,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 35000,
+              "product": 28800,
+              "total": 28800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "vxUHBIDYNwAbZpufzaRkCVM8qBr5vKmXJ8c09PVEa+e8K5ClnU4ZpM4DQlQX+2ba5E+yKWZNSZ/K"
+          }
+        ],
+        "totalQuantity": 274,
+        "log": {
+          "cpm": 505,
+          "promotion": 1,
+          "promoPosition": 11,
+          "position": 17691,
+          "advertId": 17687589,
+          "tp": "c"
+        },
+        "logs": "MfxAEcY/BlH/bcYvcaaSzfx2T66O2x5qEjfYIMCXyGdy+81jwHylX2IQw04PYvcurN1L1A",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 254336697,
+        "root": 171327297,
+        "kindId": 0,
+        "brand": "CaseMart",
+        "brandId": 94413365,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iphone 13 pro с magsafe со стразами",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CaseMart",
+        "supplierId": 1342345,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 2376,
+        "nmFeedbacks": 53,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106688,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 396754869,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 107000,
+              "product": 36900,
+              "total": 36900,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Wdq6gOhR091Pka36YHdQKQg0Cwi8/O1PQmHqhVCU/S/VCWE/YrKUBDWMqTFWy1xQ0BuSqQUxWPsIL7Cv"
+          }
+        ],
+        "totalQuantity": 660,
+        "logs": "MY9JEC3zl+iyEixuStl7hL9KxPVqZO6Qh0xvtIV4DzY/IEsZz8tEWtSPlTrfaq+UlyIm",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 210792999,
+        "root": 190541238,
+        "kindId": 0,
+        "brand": "santa barbara polo & racquet club",
+        "brandId": 19949,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для смартфона Apple Iphone 13, Knight",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Omni Trade",
+        "supplierId": 1336815,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 15,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 5,
+        "feedbacks": 27,
+        "nmFeedbacks": 3,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 10,
+        "viewFlags": 107584,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 337194686,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 390000,
+              "product": 99500,
+              "total": 99500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "J7rQl8j0XjC5HLMF73NshQoJ8jqJBjIiL94Z/dXNJV2xkxz4FdEb/lf6Z48in52OXvWIF/0jw+ld2iFRVdk"
+          }
+        ],
+        "totalQuantity": 1,
+        "logs": "MQR4kpQ1uOmNRAm78qQI5fuYZtn6gpuhQYs6TCxu5z43zwH07ztvlaW70bS1amyT31xv",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 266815713,
+        "root": 245010017,
+        "kindId": 0,
+        "brand": "LUXO",
+        "brandId": 30611,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 Pro Max",
+        "entity": "Чехлы для телефонов",
+        "supplier": "NO TWO",
+        "supplierId": 4150170,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4,
+        "feedbacks": 19,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 1,
+        "viewFlags": 106561,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 413636768,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 75000,
+              "product": 27400,
+              "total": 27400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "uaBezb3jcUtw4/a2wQpcgnnS+5cFPc/j6OqimrsrW5ZqIERCp6vVxnFGrFewKlwIMabTBvyHFMWxNO8"
+          }
+        ],
+        "totalQuantity": 63,
+        "logs": "Masc/YIQ8ykBTfrnkS+KrR2sTuOiehN0BD2SUdGsHH2HWnhE/w5++NPBlZ2FM7T83rdGJA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 175998504,
+        "root": 136613780,
+        "kindId": 0,
+        "brand": "Mi&Mi Accessories",
+        "brandId": 1170673,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол на iPhone 14 Plus",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mi&Mi Group",
+        "supplierId": 91334,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.7,
+        "feedbacks": 45238,
+        "nmFeedbacks": 700,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 65,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 291620137,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 107200,
+              "product": 31800,
+              "total": 31800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "EQsn40gSZuC3z8R0QaJKj9tQXHIZH0660AWhR0STNZqEg2ivB0JuBw0r8NizLcxWP328Z1T2yroJ0Pu5"
+          }
+        ],
+        "totalQuantity": 943,
+        "logs": "MU/IppD/U0UTSNqDq6uvDQciHrkDngahR+IZsckbL5RveLfEugk8EgiHce4UcWMJQlns",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 259929223,
+        "root": 242510531,
+        "kindId": 0,
+        "brand": "market by B&M",
+        "brandId": 311246150,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный Чехол Magsafe на iPhone 11 Матовый Черный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "market by B&M",
+        "supplierId": 4032963,
+        "supplierRating": 4.5,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 252,
+        "nmFeedbacks": 95,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 110672,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 404122151,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 70000,
+              "product": 31800,
+              "total": 31800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "8Sg4NtWFgtmHAKr3KLyjku0OQU4D5Srgql8fauJm2/GtGInm6clGXn+3t7t+aBA8RxjF1sl+Gzi/wTXV"
+          }
+        ],
+        "totalQuantity": 1032,
+        "logs": "MY3ocj4Hg3cWDHj+6EvS7eWwAWEMBqbMsyg4MEbET8GxVwYc36bhzheGdCncQldwdxSt",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 262088297,
+        "root": 239496215,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "оранжевый",
+            "id": 16753920
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield для Apple iPhone 15 Pro Max",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 29,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 200,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407134091,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 126300,
+              "total": 126300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "nPlcSbOikSUg4TLAwpVaIuu4doc/9T5ueReeaLboaHQvdIQEeRvxcw+hPYzZSgCn65nNfkeg1ykC5gqd4qA"
+          }
+        ],
+        "totalQuantity": 232,
+        "logs": "MWYWcf+mVB8DbFhl7babCHUyEYQam1JlkVqFUI1fJtcgip551LTmisNQY97lEPeETHkg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 222980097,
+        "root": 200795872,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Защитный чехол Shield Case для iPhone 14 Pro",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 16,
+        "nmFeedbacks": 8,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 353850435,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 179900,
+              "product": 70700,
+              "total": 70700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "u+WMS7OyuYT/PFWjhj6lHh0heKpkRY5yzBFfkM5PVrcmsHfq9uvMvkK4whNpJNnEOCoTsHHWC6CabuPejxs"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 421,
+          "promotion": 1,
+          "promoPosition": 18,
+          "position": 17052,
+          "advertId": 21725371,
+          "tp": "c"
+        },
+        "logs": "MT/Vjd0JlpasuLYNJLQYs2TXK7vYbpXhv2jU3BpPUix+OanU+ZKMjNxwNfPOFgAM+B1eIQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 266143819,
+        "root": 240270762,
+        "kindId": 0,
+        "brand": "ONZO",
+        "brandId": 32960,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Прозрачный чехол на iPhone 16 Pro Max противоударный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "МОБЛЕР",
+        "supplierId": 33367,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 0,
+        "feedbacks": 163,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106584,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 412818263,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 29700,
+              "total": 29700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 155189248,
+            "payload": "uBFaNkM9m0a97ig3pT/whzRXvmpsLAv6W38vqbt6hJo2d9YJYiucigbKPI3ZU5rgykmtIrMKbI75/7g"
+          }
+        ],
+        "totalQuantity": 403,
+        "logs": "MRvF+dq42dyJNNMjpjdEeflzSNZY+aMllozCy3SAmSor0ZGrkgcVdpyYoog3UPWXziqA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 262164427,
+        "root": 200795857,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield Case для iPhone 14 Pro с Magsafe, Clover",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 29,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 300,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407235784,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 179000,
+              "product": 108600,
+              "total": 108600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "yAK5LpNPdmMr3JVYAtj8fu2RB+p1wwaOteURHZmme/dQXdrCTIN4/5xQGR758otLkoHdjrSP8Jj8nY+aL0c"
+          }
+        ],
+        "totalQuantity": 392,
+        "log": {
+          "cpm": 421,
+          "promotion": 1,
+          "promoPosition": 20,
+          "position": 19159,
+          "advertId": 21725371,
+          "tp": "c"
+        },
+        "logs": "MUJj484+x/wOX51TFZeviLr2qbO7IeXh77JZw6L2y+G6CRlTpH4wbB5UQVVME8PBv9tTKQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 266815712,
+        "root": 245010017,
+        "kindId": 0,
+        "brand": "LUXO",
+        "brandId": 30611,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 Pro",
+        "entity": "Чехлы для телефонов",
+        "supplier": "NO TWO",
+        "supplierId": 4150170,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 5,
+        "feedbacks": 19,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 1,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 413636767,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 75000,
+              "product": 27400,
+              "total": 27400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "lbOx6gdSMMV7nUEOXIfKqMj4Od/whP48/eAQV1/EoiJQfOLjByZAdNIK3C/EDwYBLBpptuahP+sd2OQ"
+          }
+        ],
+        "totalQuantity": 58,
+        "logs": "McbCii6/dJzn3P0AwcA3sYBVTzuGWvx7YUImh+k28yvpCAsvWVeLgQTge7bJKfFjdlXscw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 222980120,
+        "root": 200795895,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Защитный чехол Shield для iPhone 14 Pro Max с Magsafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 5,
+        "feedbacks": 23,
+        "nmFeedbacks": 2,
+        "feedbackPoints": 200,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 73921,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 353850458,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 249000,
+              "product": 87600,
+              "total": 87600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "foa9u5AYPYiSG5nLci9rcRf35fL4QlmQGA3fvaT6FBi74wNpp7On2nufxmZKaRO2JQR+zhG+FHRD/xaG1P8"
+          }
+        ],
+        "totalQuantity": 7,
+        "log": {
+          "cpm": 421,
+          "promotion": 1,
+          "promoPosition": 22,
+          "position": 19002,
+          "advertId": 21725371,
+          "tp": "c"
+        },
+        "logs": "MZ3Mp8Q6kdikKXrJl1aE8hskN1Lu1y+UM7wzrCiOzGoO6OWPiD85xUwUZa+ZdU2AaAx8Bg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 222980128,
+        "root": 200795895,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Защитный чехол Shield для iPhone 14 Pro Max с Magsafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 5,
+        "feedbacks": 23,
+        "nmFeedbacks": 1,
+        "feedbackPoints": 200,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 73920,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 353850466,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 239900,
+              "product": 82700,
+              "total": 82700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "5dpAcMIERltFqHk1txTO+M5ZIcXslhRiWvSk1DUzGO1OvDnxPwg0Xq0koKfGql2tXa1Z6X09QpczFO2nQwg"
+          }
+        ],
+        "totalQuantity": 3,
+        "log": {
+          "cpm": 421,
+          "promotion": 1,
+          "promoPosition": 23,
+          "position": 20879,
+          "advertId": 21725371,
+          "tp": "c"
+        },
+        "logs": "MVwytCTu41OLrYkcE2Wy/Y+o5McHiCYwK6+VqlWgFfzydOJnDIB7Dqzyv9ZT1CbzT/sYVA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 265271149,
+        "root": 243462972,
+        "kindId": 0,
+        "brand": "NoviCase",
+        "brandId": 311490754,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 поликарбонат",
+        "entity": "Чехлы для телефонов",
+        "supplier": "NoviCase",
+        "supplierId": 4173589,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 59,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 411676361,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 108600,
+              "product": 37400,
+              "total": 37400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "xVlW21jUNzQcGKKt0EyEPvzK60Mjh9Pp6pb4loqABawuzaCEmHTY1UU/zoWTp1Kd2bjJQpney1XLIeHa"
+          }
+        ],
+        "totalQuantity": 412,
+        "logs": "MQ9Mbfmy6MF0uaIW29MaP5tM/ocyhKiDbFxyUbrnWJbTUwDr+sZTmsmYXo9OVz/n2NExqg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 83903658,
+        "root": 33265528,
+        "kindId": 0,
+        "brand": "Mi&Mi Accessories",
+        "brandId": 1170673,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол силиконовый на iPhone 13 Pro Max",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mi&Mi Accessories",
+        "supplierId": 92867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.8,
+        "feedbacks": 11198,
+        "nmFeedbacks": 1384,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106688,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 137526827,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 25500,
+              "total": 25500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "GyjZ06Bmur5vEHsIwUc4xdYBqYi5Y2XtX403PtA7kj7C2eBgis89ZxSfTgMiGQDM1y72tHAqt/ds5Ws"
+          }
+        ],
+        "totalQuantity": 876,
+        "logs": "MfdAXUyJHUISXSj11BImXhDV2TUUTUR//6mxz+LiNU7bhURNE2RujwiHNLe8UKHC/V1pCw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 154706725,
+        "root": 136613780,
+        "kindId": 0,
+        "brand": "Mi&Mi Accessories",
+        "brandId": 1170673,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол на iPhone 14 Plus",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mi&Mi Group",
+        "supplierId": 91334,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.5,
+        "feedbacks": 45238,
+        "nmFeedbacks": 601,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106689,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 258327963,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 111600,
+              "product": 29400,
+              "total": 29400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "b5kkeZarVZmdu23iZBo4PQy3Nvypo6fSfjK0V+bn2gNgTBBta+pnqqyn7sYBOUs3WkgNb8K5/BCYpmY"
+          }
+        ],
+        "totalQuantity": 408,
+        "logs": "MX/cB0yBsm7Wvu1mnjrWBQQN2Aya623SHtng1eugodOoTDYhcRF3K7UVlP3yxVs1lasYaA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 221377612,
+        "root": 170083282,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 противоударный с принтом губы",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.7,
+        "feedbacks": 1452,
+        "nmFeedbacks": 449,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 351705980,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50200,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "5OnsdvdRN5rXnFxwElkfKWJ9Cx74LrwBPymQy4bCLIC6cwEgjw+7gB6fwFyYzKA1sxPtLHhfAOU/Kg"
+          }
+        ],
+        "totalQuantity": 223,
+        "logs": "MZtyDLR9CBc+R/uupq4mTpDw3CQsmcd4FgprSwCo7n4RFbxYVPQtkYBBq6xICrL9nA0Zww",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 262111174,
+        "root": 239655421,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield для Apple iPhone 15, с магнитным кольцом",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 34,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 300,
+        "volume": 4,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407167177,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 130400,
+              "total": 130400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Kr9kqXCmRKwagnY2QzpavQb6OTCmpJElbFOUgSOmYuHJohDSTrkL17D8RSMDwW+ej86Vxpu4jGG1iNZFyOw"
+          }
+        ],
+        "totalQuantity": 34,
+        "logs": "Mec7/Vc+CZNbX6we4BC5fdUTgtjWfKUQsk14F7gW9W7y3Tm7xwxKaDAUUUZa7WCH1tAVfk0",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 204243899,
+        "root": 128124030,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 11 с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 17769,
+        "nmFeedbacks": 584,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 328739123,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100500,
+              "product": 35400,
+              "total": 35400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "yAh8ljeJXcMd68ThGUn4RueG7cJ3/pqNI09M9hgQ7gomkViJPxIvL6h/ScsZHtHNWd9tAqgGffJigWyS"
+          }
+        ],
+        "totalQuantity": 1029,
+        "logs": "Mb7IBND9MQzEFGb6t0kJwc9RSKxj2RRSbveRSJvPi8R1pqa7FBGd8jvvmBIZJ7lCj5NFIA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 262070282,
+        "root": 239655421,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield для Apple iPhone 15, с магнитным кольцом",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 34,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 300,
+        "volume": 2,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407109030,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 159000,
+              "product": 104200,
+              "total": 104200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "naXD+mXhWt/+A/h+Y7pn7Gv/8eY2bPhToQurES92lNHIQuXrU9EdSLbQ60h982jn0INbOp3QldvhBls8QL4"
+          }
+        ],
+        "totalQuantity": 20,
+        "logs": "Ma+ZZK/QEjXhA2HK8J96NSreF6tc8flxF6KC7tuWm7AXY6Jej5X6M+C1x0ySmuEDyKVEHmI",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 247119935,
+        "root": 170083282,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 противоударный с принтом губы",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 1452,
+        "nmFeedbacks": 137,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 387149213,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50000,
+              "product": 31700,
+              "total": 31700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "CYlpZJJtY8rRpmk++cIhGz0MVAAmOYstG8AkGJV48I4FAUo/4rccA9zawWU67dj27bnimpketXl2Gg"
+          }
+        ],
+        "totalQuantity": 417,
+        "logs": "MWLZMvOJrrZX9QpGzAQggHnxOYH8OOsnHOMiOjX16Kwq4WB5KCTO4X6dDJBUGRQ7q1UqYg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 171819658,
+        "root": 157055079,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 14 защитный с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 4324,
+        "nmFeedbacks": 1349,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 285163903,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 20700,
+              "total": 20700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "jcRlwWgHwjGdmQc5fOJM8L38CPcfnYZvm321PW/dAeSFNy9vRUOUsAC6TmuF5ctYaZ4+Ll0mGxxNg7w"
+          }
+        ],
+        "totalQuantity": 645,
+        "logs": "MZvFXWDT5f0fBnMEzM+VJkmlJpyI3g7W0G/ihZgWjqd4rTjEkFv2QNV6UiELTlnPBfOy4Q",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 151118092,
+        "root": 128124030,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 11 защитный противоударный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 17769,
+        "nmFeedbacks": 585,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 253208144,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 22500,
+              "total": 22500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "nEwjpd1O9S+X1LJKL1sEbIJ0kvXOXvpy3p5fvv9N6tzHEIhiYKaPiE7i5JguArvsMR/NOQsUwwauFWU"
+          }
+        ],
+        "totalQuantity": 310,
+        "logs": "Md4IC37OCPNuM0QtfNQEaorFOg4yj3fVUvWl/Qq1maFT3kEVxwm+R1Jjhz4rstBltHyYXg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 196412491,
+        "root": 178369986,
+        "kindId": 0,
+        "brand": "printari",
+        "brandId": 255361,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro Max",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Стильные аксессуары для Вас",
+        "supplierId": 181563,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 1729,
+        "nmFeedbacks": 548,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 110672,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 318797223,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 120000,
+              "product": 30600,
+              "total": 30600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "/XYWqgAUSE8QkNfv+ywKAkVsbH4KuDRf33EpXgVPxnQQXh3IFNVm1qa258AnVtHW1KqtgSZh3aNbhh0"
+          }
+        ],
+        "totalQuantity": 1124,
+        "logs": "MaBqJCC/rNQ+TBjRk18fQE99jLixXLHNkp00achjntMi9oBcOZp+inXSFb5nRAE7WAWa2w",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 270333254,
+        "root": 170083282,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 противоударный с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 1452,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106561,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 418034118,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50000,
+              "product": 34000,
+              "total": 34000,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "2XTXYFEqiGmCmT+phN32hxtzD3KfRekOtwpmfqPKvYHPN9rZPv5tSxdir0BEuNDlvg8NNRwr0Ccv"
+          }
+        ],
+        "totalQuantity": 166,
+        "logs": "MWe3nOkgCByQfMgFOsWuhh8ptZGw6R2k995V2jk2Evc+T3HNEs1pwDGonvLzGSNgCFdrr/M",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 225421980,
+        "root": 157054761,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 13 силиконовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 8620,
+        "nmFeedbacks": 593,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 357142192,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100600,
+              "product": 36700,
+              "total": 36700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "hQG5NEmGMrSGqWPFzwU7J6g5q8RfmOvBt2uhPAr7+v/leWTQjK2VrlInmzPwnAhkRowapmsRdDYP2ck"
+          }
+        ],
+        "totalQuantity": 645,
+        "logs": "MZqeciH/34gIU+FDEvCheoo99p5VSXN8lkw1dx84QjhQHLSjX+BEccfpm+qLr35dwni/fg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 223654992,
+        "root": 157055079,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 14 силиконовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 4324,
+        "nmFeedbacks": 532,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 354736470,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100500,
+              "product": 36700,
+              "total": 36700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "kLfMddoW06ZLhUCLM+Etsq7aKsB6lV1DcphKKoVwSxiImhjcRU/YTjOXcg+QtJbzEHAXskIRwaGhScg"
+          }
+        ],
+        "totalQuantity": 607,
+        "logs": "Me8+2nEQpgGjzw1b7jlJOrw6WLWxjFYeNXj9WjTlviEz2l1YP5cowSG/HxDd1vFOSz0Saw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 182597901,
+        "root": 166272690,
+        "kindId": 0,
+        "brand": "iVictory",
+        "brandId": 2721610,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          },
+          {
+            "name": "бежевый",
+            "id": 16119260
+          }
+        ],
+        "subjectId": 7646,
+        "subjectParentId": 6258,
+        "name": "Чехол на Айфон 15 Про силиконовый iPhone 15 Pro",
+        "entity": "Чехлы-бамперы для телефонов",
+        "supplier": "iVictory",
+        "supplierId": 930682,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 1281,
+        "nmFeedbacks": 147,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 80,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 301164414,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 449000,
+              "product": 124500,
+              "total": 124500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "8mRlc8/CpGeFOEa1VE4lA4u7P6eRwrtpdCayNsYHsNrseOzNFk0T2XbRE9fvGRRAhvcFjBazPUwotA2krj0"
+          }
+        ],
+        "totalQuantity": 26,
+        "logs": "MZq/YfkOswFepXYxotOaj0XOqStAi8G5z77QSBmi3roda8570SF16IbXO7PgtYtZ9elifw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 61,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 1780,
+        "id": 281588461,
+        "root": 262230407,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 Pro Max с MagSafe блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 350,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432017154,
+            "wh": 130744,
+            "time1": 1,
+            "time2": 61,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "swPuP5OuQPCc7/tSDpCWbPLc98sqQbZjZJg2LKJqohn7dLB1s7PcYNHNaCZQZ34YRI2DZkBepjQdyV2j"
+          }
+        ],
+        "totalQuantity": 48,
+        "logs": "MVv3Nl5HQdLg8EUiVLsjXi3FQXn9tUWPyvotbyfCYGQ9Hc+1+Cf7JANZ1fKtbY0tfCKsRVgdgg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 247118582,
+        "root": 151333250,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 13 силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 9174,
+        "nmFeedbacks": 103,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 387147749,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50200,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "xksphJTWkK00mi0ut2q9Wf0x6lwl2SPk9SpSXN3Lmw0PGYXxb3WvkRzbNcOjUvBDorNewHZ+1tHQDQ"
+          }
+        ],
+        "totalQuantity": 364,
+        "logs": "MQvPpPzdc31vfTFV4TCtINtJPmIRltg18x/dhgEjZrr5Piyhg3VkitCojcgJumAiFUPXrw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 217907852,
+        "root": 128124030,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 11 силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 17769,
+        "nmFeedbacks": 329,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 347024039,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 100500,
+              "product": 26400,
+              "total": 26400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Y2pWvi/daTsKU50s0q5Y9rdksVQVMq1O27BtaobLh642o5m8ZD9s3mYfD90XpHsXd+CoL/49+wS9dYY"
+          }
+        ],
+        "totalQuantity": 243,
+        "logs": "MbJf5t7ePwwOO/zw7mNc6WgwLbXXbn3ZMcn400bk+J/pw2ipDyHme60YLBKrE2bztrzSGw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 212842780,
+        "root": 190797482,
+        "kindId": 0,
+        "brand": "Janky",
+        "brandId": 478025,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 с яблоком",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Janky",
+        "supplierId": 271746,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 3076,
+        "nmFeedbacks": 163,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 340234977,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 90000,
+              "product": 22600,
+              "total": 22600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "WfWp3KpzqwZSW6upGgONowTT1+uE9rOEBz9Nu0Rp6KF0wDIuXZOjKY1TZkBC38WOovPbf8RwKr25Xvo"
+          }
+        ],
+        "totalQuantity": 718,
+        "logs": "MToKAVMrh+ff1MnW+BALB1/ohD9tQCNrTEBMp33MAEDH37zBaB+inbe7WTZfMO+aueCV6Q",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 61,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 1780,
+        "id": 281587518,
+        "root": 262229267,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 Pro с MagSafe блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 350,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432015387,
+            "wh": 130744,
+            "time1": 1,
+            "time2": 61,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "BQqlWnbkmqAGt41VyXtwHPOFynzU6Fx1A6UOFaphX444qeq1v6D0a/+5PCNl8OGrIEQNpatF/KvmKXf4"
+          }
+        ],
+        "totalQuantity": 48,
+        "logs": "MRDvR++3Z4omUVRK8+on141LoL1EfWPsPhQBb/tEkZLTR2uzNanizY9udUXhuj1NJ+zIlUj7mQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 162431651,
+        "root": 148798236,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 12 защитный с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 6724,
+        "nmFeedbacks": 2613,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 269950270,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 17100,
+              "total": 17100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "DZa+l2i3paqJqb3JkxL/dYCq1MCiqVxBOFIb9fdzP/T63ctttV3z7etiDY4qOW0+K1CuvI58pJUHs/c"
+          }
+        ],
+        "totalQuantity": 344,
+        "logs": "MUUpStYPDm6i9cUzScIAzqsSUoGyHO8JHaf/48MRw8ry4JBHP35JqyAISyMfLPsoCSxJQg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 274053336,
+        "root": 175967534,
+        "kindId": 0,
+        "brand": "TassyMobil",
+        "brandId": 977732,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone 15 Pro с защитой камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TassyMobil",
+        "supplierId": 523867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 514,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 422743447,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 65500,
+              "total": 65500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "+KVVEM/Yfg8RUidulm2PI2zzTL1FkPbj/go0TycjW3m0Js4QGn0HkvSbcnddloOuxGTlMMToFG1tDEu0ys4"
+          }
+        ],
+        "totalQuantity": 168,
+        "logs": "MSlhdtfr06NxWd8B7kK+181SqOnedxUHcuq9wr2bswWpn1WVLEWYuJLK944ZnO8YIAHcZA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 61,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 1780,
+        "id": 281586852,
+        "root": 262228331,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 Plus с MagSafe блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 10,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 350,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432014442,
+            "wh": 130744,
+            "time1": 1,
+            "time2": 61,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "HM9Pt0tgP9aBE6+BpZ1N3uks+dgR2GR/a5sO/lboLxyoJiJwKO+GXm1KNH7It5Vh7V7Jwgt1jIciHM2E"
+          }
+        ],
+        "totalQuantity": 29,
+        "logs": "MUfLVqyrG/MNV3FRAvszRcVGD17rq5IR4D0RfmLTBHoryJjC1V8ARIkPoTEP5TTpSK7MArfITg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 262703505,
+        "root": 240341723,
+        "kindId": 0,
+        "brand": "MOBISTER",
+        "brandId": 402420,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Карбоновый чехол на iPhone 16 тонкий Magsafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mobister",
+        "supplierId": 109755,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 30,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 408017121,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 105000,
+              "product": 67300,
+              "total": 67300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "eYSTLMC+IQ69urKnD8ZPKXABdl9rjonn0/mIHg/J+rt29mIjsymY5SEhMgxfhJmRpZ47JYpGAL2sL3+QdPA"
+          }
+        ],
+        "totalQuantity": 144,
+        "logs": "MUnaBw40ebtgHtW087d0zSM4LkVgI8UtpVY4J2bgthqhDUj++XmmQCtH5M3ImtKstSANew",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 259041510,
+        "root": 276327335,
+        "kindId": 0,
+        "brand": "Relanzo",
+        "brandId": 311441967,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол силиконовый прозрачный на iPhone 16 с картой",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Relanzo",
+        "supplierId": 4145003,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.8,
+        "feedbacks": 138,
+        "nmFeedbacks": 9,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 402864900,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 104900,
+              "product": 27600,
+              "total": 27600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "p4yXRJUdSozwi1CdFWgxKG3iHWHK/bg5Xlc1jN6Y/ZrAOanMsTLsYF0hInzcIlXs5AOEl50Kndhjrh4"
+          }
+        ],
+        "totalQuantity": 589,
+        "log": {
+          "cpm": 150,
+          "promotion": 1,
+          "promoPosition": 48,
+          "position": 5748,
+          "advertId": 20463258,
+          "tp": "c"
+        },
+        "logs": "Mb6RaAsNcHJnaL8UFi2QDYZkLS8JFAdl5uSMOemoUXSIm9J454YT4N5waC8S1B/iboVedw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 270977001,
+        "root": 249660949,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "красный",
+            "id": 16711680
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 15 Pro с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 2,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 44,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 418858717,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 37500,
+              "total": 37500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "AyptoHfmwQxwPBFz8BJeQ1L1TxDTWTQnwSBJsfRS8l2U1DjhrN+T8KK1UmCEHtDgJx+D5hf1LuOdj6sq"
+          }
+        ],
+        "totalQuantity": 107,
+        "logs": "MVDkJuIrkPh/gNandeJHNDcUcWnean6A4p/PmB/HYfNHJiyLkHF+C6N4PNlvtxqQPniR8g",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 275038349,
+        "root": 254970596,
+        "kindId": 0,
+        "brand": "santa barbara polo & racquet club",
+        "brandId": 19949,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 7646,
+        "subjectParentId": 6258,
+        "name": "Противоударный черный чехол на iphone 16 pro max",
+        "entity": "Чехлы-бамперы для телефонов",
+        "supplier": "OPTOMAKS",
+        "supplierId": 729424,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 5,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 9,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 424131662,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 400000,
+              "product": 129700,
+              "total": 129700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Q4wojvVj4SYu2XXuJZ3bbZ2bhPwidtX4iUL/+7sU2RUtgiD2qFyB0mV2qfFNErI+TlEHr/4ic8w0LEaPLyk"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 199,
+          "promotion": 1,
+          "promoPosition": 50,
+          "position": 11432,
+          "advertId": 21495025,
+          "tp": "c"
+        },
+        "logs": "MQL1cdcDY3kd5xujIvHdN0Mdtlv91hSaKa6sPQ/KilFsSd+QKj9DBgyBepTxLXQ4w/oFNw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 236501836,
+        "root": 199877565,
+        "kindId": 0,
+        "brand": "Стеклянный Чехол",
+        "brandId": 310459073,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол стеклянный на iPhone 13",
+        "entity": "Чехлы для телефонов",
+        "supplier": "da Vinci",
+        "supplierId": 63429,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.8,
+        "feedbacks": 974,
+        "nmFeedbacks": 80,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 7,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 372445933,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 34300,
+              "total": 34300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "qTSf5OwksN7rUkALX/Jtn7bmLYEczDENqUOhfOKM/krQquEJ7TtGT4KX6t9K86SA4xY3JnKnSLfPL0s2"
+          }
+        ],
+        "totalQuantity": 110,
+        "log": {
+          "cpm": 150,
+          "promotion": 1,
+          "promoPosition": 51,
+          "position": 6970,
+          "advertId": 19485225,
+          "tp": "c"
+        },
+        "logs": "MYYj4SLODb7CgmraRSCQ1J5JX2rIWaV0hK86JQFOe9wZcFJboQ3eXt7uuerMed7bub/w/g",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 262703504,
+        "root": 240345922,
+        "kindId": 0,
+        "brand": "MOBISTER",
+        "brandId": 402420,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Карбоновый чехол на iPhone 16 Pro тонкий Magsafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mobister",
+        "supplierId": 109755,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 0,
+        "feedbacks": 45,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 408017120,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 105000,
+              "product": 67300,
+              "total": 67300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "nrNsjeZ2gOxoa6QKjwNE+X3QrHIpDutdLSWIqJ6AWy/s+r69cq8sCcnpVPqv1btaPCBkZrpRtJtwP+cIO8w"
+          }
+        ],
+        "totalQuantity": 122,
+        "logs": "MSupxwLJ/9gKhFqtwyK2YqLsr/61SjDVzc1S2hhGu1x0oCYu9guMNJUNvTpSDaqerOvMbw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 165078993,
+        "root": 151333250,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 13 силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 9174,
+        "nmFeedbacks": 530,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 274925491,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 31400,
+              "total": 31400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "aNfIGSSbP5xlBmPbdL1ObaU/cUHoc778i8iiFbKhhzEVkKCRhjV2on/52y9TlcBu/ULm+vPu3ejCuA"
+          }
+        ],
+        "totalQuantity": 570,
+        "logs": "Maq8slUTS6jXXjHYidYP4gukIiQaRTGYT81aQoGLVu+XJAb1T2uhCYxGWGq/M6mvDKRhAw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 272255456,
+        "root": 236860431,
+        "kindId": 0,
+        "brand": "TitanCase",
+        "brandId": 310958405,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 Блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Titan",
+        "supplierId": 1376567,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 56,
+        "nmFeedbacks": 5,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 420444662,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 120000,
+              "product": 42300,
+              "total": 42300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "KsiG35SFw7XTrNhGwqCiQp4PSbPdkwXLrn5Msiz0+9aLpIDAHL5C2zN60bn8vD825JLiHhS8H2WtTlqe"
+          }
+        ],
+        "totalQuantity": 364,
+        "logs": "MdVDq/J0/Qi0UcJDYK4lh/2JZHuEjWfSc4hXbAVNbrqP5ZPdauq/BTiXdnoOmKedh41KBg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 274053338,
+        "root": 163914636,
+        "kindId": 0,
+        "brand": "TassyMobil",
+        "brandId": 977732,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone 14 Pro Max с защитой камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TassyMobil",
+        "supplierId": 523867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 0,
+        "feedbacks": 829,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 422743449,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 65500,
+              "total": 65500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "rG1hAxxwGA1evXonZI5z/aXfmE/jaii0zKz/1jn7RvhsM2dH7YTWfqCKnENjMl0accuZ13pfcKEL6ClpZYc"
+          }
+        ],
+        "totalQuantity": 143,
+        "logs": "McfpVjJ+PX/eZIinbKk5gzQpjWK2HwhFn0daxDVDwpzW8oa1D+c+0axKQKX9WBNwLv6Ing",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 269138675,
+        "root": 247806226,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro Стич силиконовый поп сокет",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 18,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 416572640,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 75900,
+              "product": 41800,
+              "total": 41800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "2hO0kTK3Y2yGYfDi/M0SvDhnp5DLzYkcKqs4jaGRAp1Hqc+XrgleXfD9xGayqw8msudHdnTwSY/3LW1+"
+          }
+        ],
+        "totalQuantity": 128,
+        "log": {
+          "cpm": 151,
+          "promotion": 1,
+          "promoPosition": 56,
+          "position": 8829,
+          "advertId": 21034047,
+          "tp": "c"
+        },
+        "logs": "MeG1WZfJdlR3mfFIufUsuJP7rj/tMC0mvlDqMk6JIIjGThvLfhhKPW4GjscDCQ8Gik2MrA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 274053337,
+        "root": 155435587,
+        "kindId": 0,
+        "brand": "TassyMobil",
+        "brandId": 977732,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone 14 Pro с защитой камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TassyMobil",
+        "supplierId": 523867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 0,
+        "feedbacks": 1030,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 422743448,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 65500,
+              "total": 65500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "6etCFat5zvpVTg1hIlUJAUhPYn8wP1J0ioTwP/u+LqR/STOlar/gm4bdIpGbHnBmD1Jn6E1h5hgPN7Fx9mQ"
+          }
+        ],
+        "totalQuantity": 159,
+        "logs": "MT8/9pe6cIXoed+neRo5ZLHYeWQ7ON3XVEyc1PmqVNIGpYO9zCw8O1m9e89dknNDY1J5UQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 187865742,
+        "root": 170851208,
+        "kindId": 0,
+        "brand": "TehPoint",
+        "brandId": 134641,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "красный",
+            "id": 16711680
+          }
+        ],
+        "subjectId": 7646,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 с защитой камеры",
+        "entity": "Чехлы-бамперы для телефонов",
+        "supplier": "TehPoint",
+        "supplierId": 114616,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 302,
+        "nmFeedbacks": 14,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 307885775,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 99900,
+              "product": 21500,
+              "total": 21500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "en0GZbHnni6rAgbr+ZfihfzjTkSVtmsV3JzAsw2VCCiCugO1nYZZiONfWb79Id7zkBYLu2U/RndaGnY"
+          }
+        ],
+        "totalQuantity": 54,
+        "log": {
+          "cpm": 292,
+          "promotion": 1,
+          "promoPosition": 58,
+          "position": 34509,
+          "advertId": 21212909,
+          "tp": "c"
+        },
+        "logs": "MWn2W0klcQ97fxYYow9Tlz2KS7lp2y0ZYjDvd8sVteUb+pSvqC2R3Yu/RqRsu6GW1o+B4G0",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 34,
+        "wh": 206348,
+        "dtype": 4,
+        "dist": 1011,
+        "id": 282299927,
+        "root": 263198404,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "желтый",
+            "id": 16776960
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 со стразами блестящий Prada",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 2,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 1,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432999877,
+            "wh": 206348,
+            "time1": 1,
+            "time2": 34,
+            "dtype": 4,
+            "price": {
+              "basic": 100300,
+              "product": 43600,
+              "total": 43600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "0g4i+JBqWm8/6yWrojq8Rd8oKF5hivao01/cBPiRqMREAQ6cbgGnqKpYlLn4gvHk+36+JDWtvCCi/eS/"
+          }
+        ],
+        "totalQuantity": 29,
+        "logs": "MXK0HAVrB9Vpxki0j1bMszLruNC5QG/mmSBNqwoFOWOb0GbDf8UrLv2cY2a1ZHyyB2+j7QE",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 222816701,
+        "root": 170083282,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 противоударный с принтом губы",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 1452,
+        "nmFeedbacks": 78,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 353635101,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50200,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "VyS3XceD6l8IGNzIMJhRkJlXPVfmrlYmFOaDh6aawrUYmsuinJr8pU7kbbMCxOLNFpcf0IkCcjSw8g"
+          }
+        ],
+        "totalQuantity": 244,
+        "logs": "MXfxMOYRYmymh+GQTljrRC2TDuM39YqRyEz/CfyTfJg3TKicPvPbMaEF+Ppu6ZHq2u7uBg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 169327509,
+        "root": 155051325,
+        "kindId": 0,
+        "brand": "Zazpol",
+        "brandId": 504629,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 13 магнитный для MagSafe магсейф",
+        "entity": "Чехлы для телефонов",
+        "supplier": "CHARMESTRY",
+        "supplierId": 218918,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 1419,
+        "nmFeedbacks": 53,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 281349239,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 307900,
+              "product": 97700,
+              "total": 97700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "OIQ0uvkTld2jJeGJJXSdYYQHrlS1GFIe3CtpIcuhDKDG5wpI+XKDS+PJzfUsiOZwH0So1xZdDNW9WTX5q/Y"
+          }
+        ],
+        "totalQuantity": 56,
+        "logs": "MYntaIlBFjJKJCITn1M8LU1wznSEQsR3A6y+RxuVRUwKp0Zt8OdBtBYSqFrazyTSwZoQDw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 268984165,
+        "root": 247635926,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 ProMax MagSafe матовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ТЕЛМИ Диджус",
+        "supplierId": 694921,
+        "supplierRating": 4.7,
+        "supplierFlags": 8,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 13,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 416384549,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 99000,
+              "product": 28600,
+              "total": 28600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "YkQwMhRl8dMytqpFz/79LrdRIJdL3Vandm+gQRTtZGcypns6jJMbA0nn0tKVdEtgJzVDVXw3J8+kJzQ"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 150,
+          "promotion": 1,
+          "promoPosition": 62,
+          "position": 9992,
+          "advertId": 20919035,
+          "tp": "c"
+        },
+        "logs": "MXMmPh2IMY8Fq+yqFaJ8WFtr7GQCVVXjXbPFGFSBOPdcE7WQVGmPwOqmQbg2+Otrd86TzA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 237793289,
+        "root": 148798236,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "красный",
+            "id": 16711680
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 12 силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 2,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 6724,
+        "nmFeedbacks": 181,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 106688,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 374229467,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100500,
+              "product": 37600,
+              "total": 37600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "r6Hoe7Alu4Fd4uTn5vUQOVFeU/DgBRG+xUhm9QKgQMMEW/vRtkCL341tQFBRejhqqkWxIAJMs8UCOHSL"
+          }
+        ],
+        "totalQuantity": 377,
+        "logs": "Mf/ZIlLl996+yVOAp7Gh+K8C4tRiP9ZP0hTWmKNNCAsHtQbEri77ZQzZg6Kn4ySif/pFaA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 262687685,
+        "root": 240322123,
+        "kindId": 0,
+        "brand": "TassyMobil",
+        "brandId": 977732,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Карбоновый чехол на iPhone 16 Pro Max тонкий MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TassyMobil",
+        "supplierId": 523867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 25,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407996824,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 105000,
+              "product": 67300,
+              "total": 67300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "3cvtUi3QiHd50+c3k41Oj6YXKW1YA4cDVlFDIBz249oB3GUaZ0gLtraa+qxoz4oW5i166pm/dhEzgA713AA"
+          }
+        ],
+        "totalQuantity": 46,
+        "logs": "MfRi9R8EVd0qQ+Qh8wHbDcfDrMDwWlw6dHuwB7kEM9tpoNJKQCPVUj00TEPSXj+fFsGBcA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 272014176,
+        "root": 249660949,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 15 Pro объемный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 44,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 420161497,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 36500,
+              "total": 36500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Lj0h3rMOFu06cI10XmWLSRYKf7X4wcJPkqgd+Y95Y3qQSJxgqwoplh4K/b9OUN6Qf1x9iZWX1A6bRXo"
+          }
+        ],
+        "totalQuantity": 332,
+        "logs": "MTXhZe4eurfv2XacMOQmxan6PTQXaAolOH3uPl3X1UMqk4iNKjS6OJ8XFwfOzmSeL48UEQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 255476365,
+        "root": 155437963,
+        "kindId": 0,
+        "brand": "MOBISTER",
+        "brandId": 402420,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Кожаный чехол на iPhone 14 Pro с карманом для карты",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Mobister",
+        "supplierId": 109755,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.8,
+        "feedbacks": 875,
+        "nmFeedbacks": 9,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 398238088,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 105000,
+              "product": 67300,
+              "total": 67300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "PhIKSSBIdHgOBNoT5C7DELviB8nkijzZWPS1wU94+NqDSpGfPbf7NrGzYa1ST4Q2kQuAy7EXfyFosMXyk8s"
+          }
+        ],
+        "totalQuantity": 100,
+        "logs": "MVHkoepJY171z3DsWfyNslQ72pvHQ/xtK2WotfyONE9+g5Qp9WDuNYzCZAHYz3JwTyaTnA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 177683804,
+        "root": 258938151,
+        "kindId": 0,
+        "brand": "iPhone чехлы",
+        "brandId": 310493130,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "чехол на iphone 11 pro max прозрачный силиконовый квадратный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TANDY",
+        "supplierId": 1162891,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 1344,
+        "nmFeedbacks": 665,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 80,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 294199848,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 16200,
+              "total": 16200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "nlf9hMpcPK0KUX1mN2KibrLWLmPkSE4LfmxTJ3aaBxa6PFOezP3CuejrWxgl0fqDrdFJFHxNZm2MYVU"
+          }
+        ],
+        "totalQuantity": 3842,
+        "log": {
+          "cpm": 150,
+          "promotion": 1,
+          "promoPosition": 67,
+          "position": 11515,
+          "advertId": 21215466,
+          "tp": "c"
+        },
+        "logs": "MSS/vGr5rT0asqlgRoBVpqJirbE6/0y213N/zL6Y9YpdzzRq6fD+24zoVkYGdsLdOUahuw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 280675895,
+        "root": 229624732,
+        "kindId": 0,
+        "brand": "Gool It's Gars",
+        "brandId": 310652346,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro Max силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Gool It's Gars",
+        "supplierId": 853670,
+        "supplierRating": 4.9,
+        "supplierFlags": 1,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 0,
+        "feedbacks": 222,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 430898580,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 65500,
+              "product": 38400,
+              "total": 38400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "ezyBCrod/UlbHASfyCqPU0bMtl94/gLHHQgQHysYeBvNryBk9+RtK2U4x4wydWmSQfLx53t+W6t0Yg"
+          }
+        ],
+        "totalQuantity": 242,
+        "logs": "MbaSCqUymnyX34MomKnDZQaM5OTdHa/1LrS97ChAEXA+UK88LwTlO9oKLjRMm7l36DGlK5U",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 229093072,
+        "root": 206101069,
+        "kindId": 0,
+        "brand": "Royal",
+        "brandId": 69473,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Силиконовый чехол iPhone 15 Pro Max Silicone Case с MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ROYAL",
+        "supplierId": 1419374,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 4,
+        "reviewRating": 4.4,
+        "nmReviewRating": 4,
+        "feedbacks": 21,
+        "nmFeedbacks": 4,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106577,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 362077412,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 315000,
+              "product": 66100,
+              "total": 66100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "goohRW4lTZ0vufYwhvdW7tcyU8lD1rJaBoFo2qt38oKJMdc1d+rDK43HkzLPZzqG5d8E5MAeb1PUvlKnMQY"
+          }
+        ],
+        "totalQuantity": 31,
+        "logs": "MZFcNgKiKiOaWFTHVC7xUHm6hOpIK5k9Mi5Qk8I0PCxtVxBJlRcRu3qddu4vMAb4B3ULgA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 176929891,
+        "root": 161498867,
+        "kindId": 0,
+        "brand": "Janky",
+        "brandId": 478025,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 12 Pro Max с яблоком",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Janky",
+        "supplierId": 271746,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.7,
+        "feedbacks": 4716,
+        "nmFeedbacks": 386,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 293053207,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 88500,
+              "product": 24600,
+              "total": 24600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "D0gtIV06XwdcB838mzGx+wddrIbIPgB/DYW7lMy3SFxu+WrdecprjIAPmLRWwdlGonKfBXALb0xy/rE"
+          }
+        ],
+        "totalQuantity": 258,
+        "logs": "MXAQ5paUmnGVhp6AnIQp/eKWV5Fq83FzTPfD64Za3HTAkzEfq2huBxVxTSycs2N/BJyNjA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 61,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 1780,
+        "id": 281586053,
+        "root": 262227460,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 с MagSafe блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 350,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432013432,
+            "wh": 130744,
+            "time1": 1,
+            "time2": 61,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "vdqy3VaiDZQa+Z0py7Kt9erKQzCC/llGabE12vqJLovZ+Txbm0lUSS34hS0A2l5ziEXzbU0e+N5YDj6Y"
+          }
+        ],
+        "totalQuantity": 29,
+        "logs": "MQ1aPobUpohKYxHc88FbHYoSEeBmmE6y4ViPq4HB4TiPvw6ls/VmfZOlKPxFeWkERlxM8ptGRg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 252693877,
+        "root": 229624732,
+        "kindId": 0,
+        "brand": "Gool It's Gars",
+        "brandId": 310652346,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro Max силиконовый с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Gool It's Gars",
+        "supplierId": 853670,
+        "supplierRating": 4.9,
+        "supplierFlags": 1,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 222,
+        "nmFeedbacks": 7,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 394605110,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 65500,
+              "product": 38400,
+              "total": 38400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "5m3ksLswtdcD6P8Zue9Cq+PpLstOBOXOSOSFBH4QJY6uWqpN1yYJeu7rUSeg/EeyDhs7pe6fJvI3PA"
+          }
+        ],
+        "totalQuantity": 56,
+        "logs": "MY6VLVNkU3eOgCNjX8tV8v5Zh4qmbsDtg02EVlYHoymGB77ySXZKoFV6SYDSYCOJiQXt4Q",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 258221335,
+        "root": 149845862,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 14 противоударный айфон 14 с принтом цветы",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.8,
+        "feedbacks": 4148,
+        "nmFeedbacks": 6,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 401837361,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "vUPsSHn8T42ejMeMOuEKLrZvoYbiurmw98yDO6yz6QJ/CPk3ClXkRFJXdhdimD7bFA+HjAx6lxGkvw"
+          }
+        ],
+        "totalQuantity": 141,
+        "logs": "MTh+5DjvjpNflwErQ9B7y0cNsmrJCDrhm38r1iD1X2Cm+knhaUklUe4vsYJ4Hz+l0BNy3Q",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 275578235,
+        "root": 163914636,
+        "kindId": 0,
+        "brand": "TassyMobil",
+        "brandId": 977732,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Карбоновый чехол на iPhone 14 Pro Max MagSafe защитный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TassyMobil",
+        "supplierId": 523867,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 0,
+        "feedbacks": 829,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 424804000,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 200000,
+              "product": 131100,
+              "total": 131100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "/do3gbJM/cL8iDWOpGRQzyDH7C3fJdvPROW+SrfCWtqIpyBaGvVf2TN/wTgjnNqQXyUCqHdKtX8kO/R3Ql4"
+          }
+        ],
+        "totalQuantity": 153,
+        "logs": "MTF3G0xQRhK3ptG/Na2peHk+k1P2PxNEU7KL9jvTz/0V2Ve1gff58WbrRvvbdEAPUNohE6M",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 247126390,
+        "root": 149845862,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 14 противоударный айфон леопард",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.9,
+        "feedbacks": 4148,
+        "nmFeedbacks": 26,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 387156991,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "D+YvTxuR2FXZWtzbANmyHE74ipAGf7qQ/HCCKeUYxZMnaFxWrD6m9jXuo0j0bsIgaoxiho7ETbKbbg"
+          }
+        ],
+        "totalQuantity": 11,
+        "logs": "MTjzBk0pW7QNjpCOPeI6BrMVTCOiJys2nHaowRevjrxr4lXzw1swIgazQAg0OL/8Bx4tLA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 99058353,
+        "root": 30814023,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone X XS 10",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.7,
+        "feedbacks": 6887,
+        "nmFeedbacks": 1304,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 156458535,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 31800,
+              "total": 31800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "JIbTpaVSzxmbHLi89z21PbuvlWC9rKmbwTczUWJOCrDUNY5tcE0PDZWTbc06wo61rIQ6BUVJxub6/A"
+          }
+        ],
+        "totalQuantity": 187,
+        "logs": "MeRaNHx3eNqjCLS+95ZxLX4LnmTJcVvu6ryHcjcaxleVUY0DNlZaIzb1r9BN5OiDBkD/0A",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 270785397,
+        "root": 249660949,
+        "kindId": 0,
+        "brand": "Case LAB.",
+        "brandId": 310651804,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 15 Pro с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Case LAB.",
+        "supplierId": 228840,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 0,
+        "feedbacks": 44,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 418602497,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 100000,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "bSZQEMZoBYlEjE9z79XZSjuULhbcv54IzZO59Rl6rjy5eLK2/YNgslxuXfRoqW6SSbc+bk6ynhyvYkNV"
+          }
+        ],
+        "totalQuantity": 62,
+        "logs": "MY3bDYaa9eryvYQGzgdV3krAGx1/mo2QnkgdZA7rfzmD3M/uTGiARdgyYOEaxO3NtNuqMA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 274498770,
+        "root": 253633236,
+        "kindId": 0,
+        "brand": "Rё",
+        "brandId": 312045709,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 Plus прозрачный. Комплект 2 цвета",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Re:Case Store",
+        "supplierId": 55679,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 12,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 423341792,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 36000,
+              "total": 36000,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "Yy5wo9VKLBcj9pn4nGSpeviB9m8Jdy0mH1hwaKrwjYjEzo4aMoYtOuDCkA3lGi3c5b8YHpy8zIcpug"
+          }
+        ],
+        "totalQuantity": 134,
+        "log": {
+          "cpm": 165,
+          "promotion": 1,
+          "promoPosition": 78,
+          "position": 13966,
+          "advertId": 21370004,
+          "tp": "c"
+        },
+        "logs": "MXYgKMy5rBcuL6/V18oO2zFBRzWJPo9XL589266p38rUuPRh+D0f18XwHFZCi5D+Kb6y7g",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 244499688,
+        "root": 162137148,
+        "kindId": 0,
+        "brand": "ZENTAUR",
+        "brandId": 143636,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "бежевый",
+            "id": 16119260
+          },
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 15 Pro c принтом леопард",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ZENTAUR Чехлы для телефонов и защитные стекла",
+        "supplierId": 111825,
+        "supplierRating": 4.8,
+        "supplierFlags": 1,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 1982,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 383483199,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 168800,
+              "product": 51200,
+              "total": 51200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "H6SlFFalIZVn/yGcE9NDVkF+c03iHBqDJAA4Z0WhFO5riCazboFPdA0/iitbQgP0AnbzCxerND5pYb5bI6s"
+          }
+        ],
+        "totalQuantity": 52,
+        "logs": "McK2voc1TQUyH5lfMH9gBRdl+taaQWwHUOT9nlpcbSp7goD5n9NxveNtIF2PpZ9wvOHr9w",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 206733364,
+        "root": 187349831,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для айфон 15 Плюс iphone 15 Plus защита камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Electronic",
+        "supplierId": 109159,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 5,
+        "feedbacks": 128,
+        "nmFeedbacks": 11,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 331915529,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 89900,
+              "product": 21800,
+              "total": 21800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "L+mu+MbEhqMfiEt6jc48g611WhXyjdiOREqOwK4dZ4gFhOL4sYi9aRVmpvR1SInj/5DwI2K6ErpU3cE"
+          }
+        ],
+        "totalQuantity": 26,
+        "logs": "MWi+jgBJnNl2fiwgM8mQyZwATpR55eDv8/JAWasfkyAE1vU7LF1fakSCjUsWvSDXeyaHUw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 143305537,
+        "root": 121948614,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "красный",
+            "id": 16711680
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для айфон 12 мини iphone 12 mini защита камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Electronic",
+        "supplierId": 109159,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 5,
+        "feedbacks": 364,
+        "nmFeedbacks": 20,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 242049105,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 89900,
+              "product": 35100,
+              "total": 35100,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "grwfToQU8U3lrMXHgTrpic291Pu8KYRkHk+hOldB6fUbIErAEJRmWv60Hqwusrm9nXzYvtO8E0UxzLI"
+          }
+        ],
+        "totalQuantity": 34,
+        "logs": "MXzf5nlN4QH+xOCFhKYp/p0iaL9uuLRdNPjQl36W6sc3D6YDSPplS29u4dWiYtdi2J0BZQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 61,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 1780,
+        "id": 281586052,
+        "root": 262227460,
+        "kindId": 0,
+        "brand": "ВСЕЧехлы",
+        "brandId": 335147,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для iPhone 16 с MagSafe блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 240116,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 10,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 350,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432013431,
+            "wh": 130744,
+            "time1": 1,
+            "time2": 61,
+            "dtype": 4,
+            "price": {
+              "basic": 100100,
+              "product": 34500,
+              "total": 34500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "WJRWP0Fmn1NNi7n6ifzBKkPLOqNKedl/quaYoH0zN+9dYMV75+A553R2+CYE7ZtT3Fa4Tz9by0Z5QSAF"
+          }
+        ],
+        "totalQuantity": 29,
+        "logs": "MRX2E5s1WZtWQZ7OtVda7LoTWsqE4L+Ge2u2Fl7KejTIi4UUrPgYTWmnlC1+O0hgdUR1m3s",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 270333425,
+        "root": 30814023,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone X XS 10",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 6887,
+        "nmFeedbacks": 6,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 418034384,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 50000,
+              "product": 37400,
+              "total": 37400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "vhUqBGrz6Zy04QV1zvbC2jsEv54Ix7hSY41AxTOIERZZ64/sI0D4R3GlK/m4NeGBq4wzFAG4USPN"
+          }
+        ],
+        "totalQuantity": 275,
+        "logs": "MaPc737iokN+NLJxksMKHLeJrx8AAK844N1aCqVzQmjsZukZJNzvz8EuchZOYsqCVV7swg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 274910620,
+        "root": 269588071,
+        "kindId": 0,
+        "brand": "santa barbara polo & racquet club",
+        "brandId": 19949,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 7646,
+        "subjectParentId": 6258,
+        "name": "Противоударный прозрачный чехол на iphone 16 MagSafe",
+        "entity": "Чехлы-бамперы для телефонов",
+        "supplier": "OPTOMAKS",
+        "supplierId": 729424,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 2,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 10,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 423956197,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 320000,
+              "product": 103700,
+              "total": 103700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "zA/BJqYy7QT2atvavKOTozyFKBphUVH0ckGTriwnOSdyoer0PJXTbUZiq4szXod7QCNTdJ0UlBFeLGMqy0E"
+          }
+        ],
+        "totalQuantity": 10,
+        "log": {
+          "cpm": 299,
+          "promotion": 1,
+          "promoPosition": 84,
+          "position": 48428,
+          "advertId": 21762305,
+          "tp": "c"
+        },
+        "logs": "MT+nz1snzcXjQgWnTKwE4mmeV60Bau4F/YGwo1i3citKi8J3jVtODyW/7M4ICxO+Og3psH4",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 146251429,
+        "root": 123986678,
+        "kindId": 0,
+        "brand": "TvoyCase",
+        "brandId": 310563785,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "красный",
+            "id": 16711680
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone X XS Айфон 10 книжка",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Tvoy Case",
+        "supplierId": 1190314,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.7,
+        "feedbacks": 197,
+        "nmFeedbacks": 56,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 246202946,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 333000,
+              "product": 43600,
+              "total": 43600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "VO6btz5ALGsNqvMBouT2KTzdv879FmVLQgw7qqfx8V4DI/cxWihxEXNyl3IRfvrdSxicajRPSdIfLvyf"
+          }
+        ],
+        "totalQuantity": 83,
+        "logs": "MadLLKbECI5h25wq/Vdw4G0xqQngTrZFipPPtoGU7e7uOwBCeES10zwCVqTENvM7/bcpNA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 170948286,
+        "root": 163930755,
+        "kindId": 0,
+        "brand": "Mobigin",
+        "brandId": 310736670,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Карбоновый чехол на iPhone 14 Pro тонкий MagSafe",
+        "entity": "Чехлы для телефонов",
+        "supplier": "MOBIGIN",
+        "supplierId": 1271711,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 345,
+        "nmFeedbacks": 114,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 6,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 283786695,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 105000,
+              "product": 61500,
+              "total": 61500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 146800640,
+            "payload": "X+jlH8/9jhGItIrS7gBeg/KNlo/aKbYE1f5yNFu/Ft3BqgGUz5029MotByw9/bNxIdQ6V4q6T1JxFXiWKEA"
+          }
+        ],
+        "totalQuantity": 105,
+        "logs": "MRKnpk7t14EssVKbrBGS8TdUoKAV1T7Sl0nMmuOfnPGO20/Hw/IBQs9DWVMFV6AoVbQbOg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 143305534,
+        "root": 121948614,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для айфон 12 мини iphone 12 mini защита камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Electronic",
+        "supplierId": 109159,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.1,
+        "feedbacks": 364,
+        "nmFeedbacks": 34,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 242049102,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 89900,
+              "product": 27500,
+              "total": 27500,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "KdD6ptVOB5jFANnMQ2JRAdva+XnbPTRlejhohRNNmBKxWC4gHlA0x0iEBkncaYeTAJGlGg81zdlC1VA"
+          }
+        ],
+        "totalQuantity": 49,
+        "logs": "McIFzLtRMLP7MxLJfyeq6lJh8FH+XUyhRrkQRYIVa06JR899z98HfJ2Mv85mw79bpKgEhQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 258221020,
+        "root": 151333447,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный с защитой камеры чехол на iPhone 12",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.4,
+        "feedbacks": 6939,
+        "nmFeedbacks": 19,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106561,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 401836996,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 32200,
+              "total": 32200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "cr2gKeNgH1Dp5h9PSndPdL/hHtcptzh9Zf5U9G7nvtWxa7+2bNjpdJB3SelJnJE4Pzz86wdAyKUzGA"
+          }
+        ],
+        "totalQuantity": 137,
+        "logs": "MbjPfX3JtoEicDG/kDRFnoh5PbEkGof2rMx6ZjhRhy3qIg1x9sLSPwEw+WWxOdRz9Ltx0w",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 272252334,
+        "root": 236860431,
+        "kindId": 0,
+        "brand": "TitanCase",
+        "brandId": 310958405,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 Блестящий",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Titan",
+        "supplierId": 1376567,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 5,
+        "feedbacks": 56,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 420441333,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 120000,
+              "product": 45000,
+              "total": 45000,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "GmPGC/vkllY+8xzQ8iKPTZnlB391mJ2MRZsCC4xp8LPmusryZI1oWe3g94oloKG767TLbkJtzLrjPLWU"
+          }
+        ],
+        "totalQuantity": 344,
+        "logs": "MYnGGfHQljg5v5QMk3tMPKpvJhlc58pI2bZMd/32ofJYWHIth1xX8dATuGCSmhambdp4mw",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 179682150,
+        "root": 30814023,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "бежевый",
+            "id": 16119260
+          },
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone X XS 10",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 2,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.9,
+        "feedbacks": 6887,
+        "nmFeedbacks": 1333,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 297128684,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 120000,
+              "product": 27000,
+              "total": 27000,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "eFqM1sAOAhWmXWtkWiXWW9hnEWgZ9heb3Uvm+U5Ijaau+X8M+LaSQ6bF2EGVQ390uH81LWlvY8eWgXg"
+          }
+        ],
+        "totalQuantity": 138,
+        "logs": "MSeOmkM8aHiXaZpeCWJiyneLznmOUsNcBUkEblLI2idhcWPBhjlrw8k8nl8J2KNDFlP8kA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 176312091,
+        "root": 259924058,
+        "kindId": 0,
+        "brand": "TRUE:Case",
+        "brandId": 310820224,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone XR с картой прозрачный противоударный",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TRUE:Case Store",
+        "supplierId": 252823,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 1105,
+        "nmFeedbacks": 156,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 5,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 292113410,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 17400,
+              "product": 15600,
+              "total": 15600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "h48uPNe9WLnFphRnr5Hw4xBRoKVK0JiLAgC6bB0PSesWP7vQdyiNKfMSaFxZhMldZejF8eXR4Q/2"
+          }
+        ],
+        "totalQuantity": 259,
+        "log": {
+          "cpm": 150,
+          "promotion": 1,
+          "promoPosition": 91,
+          "position": 17679,
+          "advertId": 18509973,
+          "tp": "c"
+        },
+        "logs": "McJvKWS4nfRZB8UGlRZ9wJVcJqAQcSxS1sC9TbuhZ7OLIPOT59bwplX1PGfsVlnqHYGQwg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 269215703,
+        "root": 237819670,
+        "kindId": 0,
+        "brand": "K-Doo",
+        "brandId": 32070,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 16 KZ-DOO кевларовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "ВСЕЧехлы",
+        "supplierId": 619483,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 4,
+        "reviewRating": 4.2,
+        "nmReviewRating": 0,
+        "feedbacks": 5,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 416666864,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 399000,
+              "product": 247700,
+              "total": 247700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "ZHkr7/1kaowXxQl+idKC/YQTMayeBodyC+ua+UJNAGdzjvwjePRc4RLybJUDcRUKGJvWVVnNBK9JM69nKUQ"
+          }
+        ],
+        "totalQuantity": 8,
+        "log": {
+          "cpm": 200,
+          "promotion": 1,
+          "promoPosition": 92,
+          "position": 28460,
+          "advertId": 20644838,
+          "tp": "c"
+        },
+        "logs": "MSQkOnno/4iAQb8dN8zVEJ/boh95kLJ3OFjFgcIePoQb4BROrkPCNrU9hjflNVv8fDN+Fg",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 180877395,
+        "root": 149845862,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          },
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 14 противоударный айфон с принтом",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.8,
+        "feedbacks": 4148,
+        "nmFeedbacks": 410,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 298845984,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 69700,
+              "product": 26300,
+              "total": 26300,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "3fluj3Rf8Eh2mlJAS8gx2HxBF5z5XJ2MAHcnjXabzo6CFXcLD0TXSlE49hxmUCx5xexlHxgx7Rrfn+U"
+          }
+        ],
+        "totalQuantity": 37,
+        "logs": "MagpT3Noer3K4+gFr9bNmQEEwK/hDud96xPOY44DMbNUl0+ezIab8KKeLjS1vHNMlbRPKA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 54,
+        "time2": 20,
+        "wh": 208817,
+        "dtype": 1,
+        "dist": 33,
+        "id": 52516559,
+        "root": 39034094,
+        "kindId": 0,
+        "brand": "TehPoint",
+        "brandId": 134641,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 11 с защитой камеры лавандовый",
+        "entity": "Чехлы для телефонов",
+        "supplier": "TehPoint",
+        "supplierId": 114616,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 44399,
+        "nmFeedbacks": 6355,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 3,
+        "viewFlags": 106577,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 98467806,
+            "wh": 208817,
+            "time1": 54,
+            "time2": 20,
+            "dtype": 1,
+            "price": {
+              "basic": 75000,
+              "product": 20200,
+              "total": 20200,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "jMxLg7At5R39QkPJt3kZwSXVXlhJ29ObR/+3Kuu+m+SJTfbbV2Q+SZEmYYxn2yjUNKw74UKfSjpnG1U"
+          }
+        ],
+        "totalQuantity": 18,
+        "logs": "Md9XJ1ksHtJIY+FSzgPeKvINCIvQKeMESHYgfi0jZlxTrRmuV0liPql0a7fb5I/SX92Uo2A",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 262238437,
+        "root": 239655421,
+        "kindId": 0,
+        "brand": "COMMO",
+        "brandId": 257519,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          },
+          {
+            "name": "серый",
+            "id": 8421504
+          }
+        ],
+        "subjectId": 7645,
+        "subjectParentId": 6258,
+        "name": "Чехол Shield Case для iPhone 15 с Magsafe, Сommo Gray",
+        "entity": "Чехлы-накладки для телефонов",
+        "supplier": "Сайберстор",
+        "supplierId": 3968796,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 0,
+        "feedbacks": 34,
+        "nmFeedbacks": 0,
+        "feedbackPoints": 300,
+        "volume": 2,
+        "viewFlags": 73792,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 407344210,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 199000,
+              "product": 130400,
+              "total": 130400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "wYPHGHdpoO/c1AKvW5PeqeTdUj4WLf19IHL69I6ZEQk6m2F9ECPL2US+bFCAFMCh1BKHnoyUibwSRE8jRWA"
+          }
+        ],
+        "totalQuantity": 29,
+        "logs": "MbeAp9DlgiVe7dfc28crPZ3xQmqrAawl2wIIr0+Ae1CuCbA17YD/W8javJ94F6IHf609MQ0",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 260253845,
+        "root": 237599590,
+        "kindId": 0,
+        "brand": "Proo Case",
+        "brandId": 311062154,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iPhone 12 Pro Max Бант",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Proo Sport",
+        "supplierId": 1409808,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 179,
+        "nmFeedbacks": 40,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 404577036,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 47000,
+              "product": 31700,
+              "total": 31700,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "lUI5mxmA7Z4HjpgNsEURwm1TGSUniBd6jZ09WrD/b8rHAg7ggUYy0IVE5ipVgF7Fac47tmdHSDX3Ng"
+          }
+        ],
+        "totalQuantity": 190,
+        "logs": "MdhRc7P2joh561WLWhSEXBmaxOvIXxPx8tfGSE/iS4+2ExlX1/XZ82Y+h53hmWDspfw3tA",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 37,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 930,
+        "id": 74774186,
+        "root": 59134355,
+        "kindId": 0,
+        "brand": "AT",
+        "brandId": 80666,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол силиконовый прозрачный на Apple iPhone Айфон 12 12",
+        "entity": "Чехлы для телефонов",
+        "supplier": "АвтоТрейд",
+        "supplierId": 706580,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 1,
+        "nmFeedbacks": 1,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106561,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 126131352,
+            "wh": 507,
+            "time1": 1,
+            "time2": 37,
+            "dtype": 4,
+            "price": {
+              "basic": 17000,
+              "product": 11900,
+              "total": 11900,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "yMYbxS0TXkn2QtpqDu5XeFyWaW05D2BBB6pj+zv/Rhzi9FBgO0Ms7S+ZTy4sWzZnIwrgrG/iW3Bn"
+          }
+        ],
+        "totalQuantity": 201,
+        "logs": "MXdmbC363XNh5rGILfBPs0V6opH3M231DZwgcTZWh5a93XLCrfxRQOu9HmRtoqGiLpmRJQ",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 243382712,
+        "root": 30814023,
+        "kindId": 0,
+        "brand": "CASE HOUSE",
+        "brandId": 452784,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          },
+          {
+            "name": "розовый",
+            "id": 16761035
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Противоударный чехол на iPhone X XS 10 бант",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Nanotechlogy+",
+        "supplierId": 226423,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 6887,
+        "nmFeedbacks": 403,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 4,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 381966948,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 55000,
+              "product": 31800,
+              "total": 31800,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "uNsi82qEoRjuhhKgyElHlA3lyiZRHxeGWHFHq5EOp4o8RcsFEB//tEZqtDft/dHW1lwHl14A9Q+1tw"
+          }
+        ],
+        "totalQuantity": 391,
+        "logs": "MYVtO8CRiVM1vh2mKxWmyMIf0pVnXrM9Oqad2GfpcKqsx83p7CDZfzHhL8/P/96Jabu+4w",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 3,
+        "time2": 31,
+        "wh": 120762,
+        "dtype": 4,
+        "dist": 814,
+        "id": 281914263,
+        "root": 241489540,
+        "kindId": 0,
+        "brand": "TitanCase",
+        "brandId": 310958405,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "коричневый",
+            "id": 10824234
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол на iphone 15 pro Max",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Titan",
+        "supplierId": 1376567,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 0,
+        "feedbacks": 19,
+        "nmFeedbacks": 0,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 7,
+        "viewFlags": 106562,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 432459981,
+            "wh": 120762,
+            "time1": 3,
+            "time2": 31,
+            "dtype": 4,
+            "price": {
+              "basic": 199900,
+              "product": 112400,
+              "total": 112400,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "xtyzcPm57jj4PvV7KyjBmu+c2Qh+EJo45ZzfvuxgzpZ42GjRCKBkihE+7uSKTkFt+SQTNG9AT2xgyENap9E"
+          }
+        ],
+        "totalQuantity": 206,
+        "logs": "MRG7KukK1Gcyad/waIV/8XIuZyhpco8NNc8HN0EFmKMSquEkRQI6pAD8Q9zXcxsAHRVT/g",
+        "meta": {
+          "presetId": 6430
+        }
+      },
+      {
+        "time1": 1,
+        "time2": 20,
+        "wh": 117986,
+        "dtype": 4,
+        "dist": 33,
+        "id": 143305548,
+        "root": 121948614,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "фиолетовый",
+            "id": 15631086
+          }
+        ],
+        "subjectId": 390,
+        "subjectParentId": 6258,
+        "name": "Чехол для айфон 12 мини iphone 12 mini защита камеры",
+        "entity": "Чехлы для телефонов",
+        "supplier": "Electronic",
+        "supplierId": 109159,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.6,
+        "feedbacks": 364,
+        "nmFeedbacks": 78,
+        "panelPromoId": 193865,
+        "promoTextCard": "КИБЕРСКИДКИ",
+        "promoTextCat": "КИБЕРСКИДКИ",
+        "volume": 2,
+        "viewFlags": 106560,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 242049116,
+            "wh": 117986,
+            "time1": 1,
+            "time2": 20,
+            "dtype": 4,
+            "price": {
+              "basic": 89900,
+              "product": 31600,
+              "total": 31600,
+              "logistics": 0,
+              "return": 0
+            },
+            "saleConditions": 134217728,
+            "payload": "nImlNHQ62XLcvu1JpzxiRyY9hVSvvx2K8SefzcNe7U4nyqvHA+KhGthRe/Ys7dFwwEBD+suRJEXe3Mu+"
+          }
+        ],
+        "totalQuantity": 61,
+        "logs": "MX8201QMh5ezygzChbMekyTmPRrzbOGscr9FJGKfbWNhFxoyP0Owaq9HH230rn6O4tMTug",
+        "meta": {
+          "presetId": 6430
+        }
+      }
+    ],
+    "total": 115032
+  }
+}
